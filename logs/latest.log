@@ -1,0 +1,96 @@
+[22Dec2022 00:05:17.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Smarto_lo_meo has made the advancement [Getting an Upgrade]
+[22Dec2022 00:10:59.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[22Dec2022 00:11:38.490] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2355c0f9
+[22Dec2022 00:11:42.548] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Jenesix moved too quickly! 10.178076390140632,0.7491326388584127,-0.9768870582073248
+[22Dec2022 00:11:42.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[22Dec2022 00:12:43.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix has made the advancement [Book of Monsters]
+[22Dec2022 00:13:12.956] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity DeerEntity['Wild Deer'/141546, l='ServerLevel[world]', x=-703.77, y=32.00, z=399.95] left loaded chunk area
+[22Dec2022 00:13:32.377] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Smarto_lo_meo moved too quickly! 0.7165425259083804,29.07840000152588,-1.8845379331791605
+[22Dec2022 00:14:06.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: onosannnt has made the advancement [The Silence of the Forest]
+[22Dec2022 00:15:47.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SuperDoggez has made the advancement [The Silence of the Forest]
+[22Dec2022 00:16:59.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <onosannnt> -731 36 227
+[22Dec2022 00:18:17.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-732, y=37, z=222} BlockPos{x=-733, y=35, z=223}
+[22Dec2022 00:18:38.323] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.326] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.328] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.330] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.333] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.335] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.337] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.340] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.342] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.345] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.347] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.357] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:18:38.359] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SuperDoggez moved too quickly! 0.35794828126995526,29.07840000152588,-1.7678699140170977
+[22Dec2022 00:20:57.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[22Dec2022 00:20:57.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[22Dec2022 00:23:16.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Smarto_lo_meo has made the advancement [What a Deal!]
+[22Dec2022 00:26:56.527] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: onosannnt moved too quickly! 9.823104694274548,1.4235592945430398,1.783597549301959
+[22Dec2022 00:26:56.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[22Dec2022 00:27:57.078] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1233, y=0, z=-386} but found not block entity block Block{minecraft:bedrock} at location
+[22Dec2022 00:27:57.078] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1233, y=0, z=-386}
+[22Dec2022 00:29:16.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix has made the advancement [Alligator In Name Only]
+[22Dec2022 00:30:22.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <gigtmza> -595 74 246
+[22Dec2022 00:31:41.226] [Server thread/INFO] [morpheus/]: gigtmza is now sleeping. 1/5 (20%)
+[22Dec2022 00:31:50.215] [Server thread/INFO] [morpheus/]: Jenesix is now sleeping. 2/5 (40%)
+[22Dec2022 00:31:56.219] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 3/5 (60%)
+[22Dec2022 00:40:14.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Smarto_lo_meo has made the advancement [Suit Up]
+[22Dec2022 00:45:17.215] [Server thread/INFO] [morpheus/]: gigtmza is now sleeping. 1/5 (20%)
+[22Dec2022 00:45:32.222] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 2/5 (40%)
+[22Dec2022 00:45:39.215] [Server thread/INFO] [morpheus/]: Smarto_lo_meo has left their bed. 1/5 (20%)
+[22Dec2022 00:46:40.221] [Server thread/INFO] [morpheus/]: gigtmza has left their bed. 0/5 (0%)
+[22Dec2022 00:47:56.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix has made the advancement [Cover Me With Diamonds]
+[22Dec2022 00:50:33.221] [Server thread/INFO] [morpheus/]: Jenesix is now sleeping. 1/5 (20%)
+[22Dec2022 00:50:47.223] [Server thread/INFO] [morpheus/]: onosannnt is now sleeping. 2/5 (40%)
+[22Dec2022 00:50:49.221] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 3/5 (60%)
+[22Dec2022 00:56:13.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: onosannnt has made the advancement [A Seedy Place]
+[22Dec2022 00:57:35.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix has made the advancement [Mine? Mine? Mine?]
+[22Dec2022 00:58:26.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: onosannnt has made the advancement [Voluntary Exile]
+[22Dec2022 00:59:12.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SuperDoggez has made the advancement [A Seedy Place]
+[22Dec2022 01:00:43.229] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/9737, l='ServerLevel[world]', x=-698.02, y=64.00, z=189.58] died, message: 'Villager was slain by Zombie'
+[22Dec2022 01:00:45.020] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/9876, l='ServerLevel[world]', x=-695.58, y=64.00, z=189.68] died, message: 'Fisherman was slain by Zombie'
+[22Dec2022 01:00:59.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix has made the advancement [Ice Bucket Challenge]
+[22Dec2022 01:01:32.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[22Dec2022 01:01:33.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[22Dec2022 01:02:05.230] [Server thread/INFO] [morpheus/]: gigtmza is now sleeping. 1/5 (20%)
+[22Dec2022 01:02:12.220] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 2/5 (40%)
+[22Dec2022 01:02:19.229] [Server thread/INFO] [morpheus/]: gigtmza has left their bed. 1/5 (20%)
+[22Dec2022 01:02:28.228] [Server thread/INFO] [morpheus/]: Smarto_lo_meo has left their bed. 0/5 (0%)
+[22Dec2022 01:02:36.231] [Server thread/INFO] [morpheus/]: gigtmza is now sleeping. 1/5 (20%)
+[22Dec2022 01:02:42.242] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 2/5 (40%)
+[22Dec2022 01:02:57.216] [Server thread/INFO] [morpheus/]: onosannnt is now sleeping. 3/5 (60%)
+[22Dec2022 01:03:29.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Smarto_lo_meo was blown up by Creeper
+[22Dec2022 01:05:34.293] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/183570, l='ServerLevel[world]', x=-836.63, y=61.65, z=201.05]
+[22Dec2022 01:09:03.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SuperDoggez: Saved the game]
+[22Dec2022 01:09:28.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SuperDoggez: Made Smarto_lo_meo a server operator]
+[22Dec2022 01:09:34.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SuperDoggez> ./stop
+[22Dec2022 01:15:06.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SuperDoggez: Saved the game]
+[22Dec2022 01:15:22.226] [Server thread/INFO] [morpheus/]: onosannnt is now sleeping. 1/5 (20%)
+[22Dec2022 01:15:25.223] [Server thread/INFO] [morpheus/]: Smarto_lo_meo is now sleeping. 2/5 (40%)
+[22Dec2022 01:15:28.218] [Server thread/INFO] [morpheus/]: gigtmza is now sleeping. 3/5 (60%)
+[22Dec2022 01:18:35.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[22Dec2022 01:18:35.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[22Dec2022 01:18:57.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smarto_lo_meo: Stopping the server]
+[22Dec2022 01:18:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2022 01:18:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2022 01:18:57.694] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: gigtmza lost connection: Server closed
+[22Dec2022 01:18:57.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gigtmza left the game
+[22Dec2022 01:18:57.702] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Jenesix lost connection: Internal Exception: java.lang.StackOverflowError
+[22Dec2022 01:18:57.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jenesix left the game
+[22Dec2022 01:18:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2022 01:18:57.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Dec2022 01:18:58.411] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2022 01:18:58.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Dec2022 01:18:58.438] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2022 01:18:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Dec2022 01:18:58.438] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2022 01:18:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[22Dec2022 01:18:58.439] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[22Dec2022 01:18:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[22Dec2022 01:18:58.468] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[22Dec2022 01:18:58.511] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2022 01:18:58.751] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2022 01:18:58.786] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2022 01:18:58.787] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[22Dec2022 01:18:58.797] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved

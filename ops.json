@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "861ce513-e5f5-43f2-9048-85d4818d8c44",
+    "name": "SuperDoggez",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c6142a39-e9b7-380a-8517-37e2a9fbcb55",
+    "name": "SuperDoggez",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d42f2ba5-b7ff-335d-bb87-cbc6828d07c9",
+    "name": "Smarto_lo_meo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
